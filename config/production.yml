@@ -1,0 +1,4 @@
+db:
+  synchronize: false
+server:
+  origin: https://nestjs-tm-fe.s3.eu-central-1.amazonaws.com
